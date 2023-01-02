@@ -1,0 +1,8 @@
+name: ChestGenerator
+version: '1.0-SNAPSHOT'
+main: com.carlosferreras.chestgenerator.ChestGenerator
+api-version: 1.19
+authors: [ Carlos ]
+description: Loot game
+commands:
+  generatechest:
