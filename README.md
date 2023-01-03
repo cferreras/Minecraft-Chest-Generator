@@ -53,7 +53,7 @@ radius: 100
 generation-time: 0
 ```
 
-## Permissions and commands
+## command and permissions
 
-`/generatechet` - `generatechest.command`  Gerates the chest at a random location in the radious
+`/generatechet` - `generatechest.command`  Generates the chest at a random location in the radious
 
