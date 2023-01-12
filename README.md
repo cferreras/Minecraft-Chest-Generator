@@ -3,8 +3,8 @@ A chest generation plugin. Compatible with Spigot 1.19.3
 
 ## How to use
 
-- Put the `.jar` in your '/plugins` forder.
-- Start up the server and edit the `config.yml` inside ´/ChestGenerator´.
+- Put the `.jar` in your `/plugins` forder.
+- Start up the server and edit the `config.yml` inside `/ChestGenerator`.
 
 ## Config
 
